@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-display_categories: [prime-investigator, coordinator, member]
+display_categories: [prime-investigators, coordinators, members]
 horizontal: false
 subtitle: 
 

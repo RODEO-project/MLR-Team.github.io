@@ -3,6 +3,8 @@ layout: page
 title: project
 permalink: /project/
 subtitle: Project
+nav: true
+nav_order: 1
 ---
 
 

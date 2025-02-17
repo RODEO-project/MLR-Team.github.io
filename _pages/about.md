@@ -1,12 +1,10 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-nav: true
-nav_order: 3
 display_categories: [prime-investigator, coordinator, member]
 horizontal: false
-subtitle: Robust Deep Learning for Surgical Robotics
+subtitle: about RODEO
 
 # profile:
 #   align: right

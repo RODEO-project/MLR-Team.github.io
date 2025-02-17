@@ -429,7 +429,7 @@ ninja.data = [{
               window.location.href = "/members/soulier/";
             },},{id: "members-brahim-tamadatze",
           title: 'Brahim Tamadatze',
-          description: "",
+          description: "CNRS research director",
           section: "Members",handler: () => {
               window.location.href = "/members/tamadazte/";
             },},{id: "members-nicolas-thome",

@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-about",
+          title: "about",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -346,7 +353,82 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-simple-inline-announcement",
+    },{id: "members-catherine-achard",
+          title: 'Catherine Achard',
+          description: "Professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/achard/";
+            },},{id: "members-mohamed-chetanoui",
+          title: 'Mohamed Chetanoui',
+          description: "Professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/chetouani/";
+            },},{id: "members-matthieu-cord",
+          title: 'Matthieu Cord',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/cord/";
+            },},{id: "members-stéphane-doncieux",
+          title: 'Stéphane Doncieux',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/doncieux/";
+            },},{id: "members-patrick-gallinari",
+          title: 'Patrick Gallinari',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/gallinari/";
+            },},{id: "members-maxellende-julienne",
+          title: 'Maxellende Julienne',
+          description: "research engineer",
+          section: "Members",handler: () => {
+              window.location.href = "/members/julienne/";
+            },},{id: "members-pascal-morin",
+          title: 'Pascal Morin',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/morin/";
+            },},{id: "members-nicolas-perrin-gilbert",
+          title: 'Nicolas Perrin-Gilbert',
+          description: "CNRS researcher",
+          section: "Members",handler: () => {
+              window.location.href = "/members/perrin-gilbert/";
+            },},{id: "members-benjamin-piwowarski",
+          title: 'Benjamin Piwowarski',
+          description: "CNRS research director",
+          section: "Members",handler: () => {
+              window.location.href = "/members/piwowarski/";
+            },},{id: "members-clément-rambour",
+          title: 'Clément Rambour',
+          description: "associate professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/rambour/";
+            },},{id: "members-olivier-sigaud",
+          title: 'Olivier Sigaud',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/sigaud/";
+            },},{id: "members-laure-soulier",
+          title: 'Laure Soulier',
+          description: "associate professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/soulier/";
+            },},{id: "members-brahim-tamadatze",
+          title: 'Brahim Tamadatze',
+          description: "",
+          section: "Members",handler: () => {
+              window.location.href = "/members/tamadazte/";
+            },},{id: "members-nicolas-thome",
+          title: 'Nicolas Thome',
+          description: "professor",
+          section: "Members",handler: () => {
+              window.location.href = "/members/thome/";
+            },},{id: "members-raphaël-vialle",
+          title: 'Raphaël Vialle',
+          description: "PUPH",
+          section: "Members",handler: () => {
+              window.location.href = "/members/vialle/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",

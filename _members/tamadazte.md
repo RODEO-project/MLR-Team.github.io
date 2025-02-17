@@ -4,5 +4,5 @@ title: Brahim Tamadatze
 description: 
 img: 
 importance: 3
-category: coordinator
+category: coordinators
 ---

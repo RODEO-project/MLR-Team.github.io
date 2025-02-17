@@ -2,6 +2,10 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 3
+display_categories: [prime-investigator, coordinator, member]
+horizontal: false
 subtitle: Robust Deep Learning for Surgical Robotics
 
 # profile:

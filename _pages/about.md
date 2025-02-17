@@ -4,7 +4,7 @@ title: home
 permalink: /
 display_categories: [prime-investigator, coordinator, member]
 horizontal: false
-subtitle: about RODEO
+subtitle: 
 
 # profile:
 #   align: right

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 display_categories: [prime-investigators, coordinators, members]
 horizontal: false

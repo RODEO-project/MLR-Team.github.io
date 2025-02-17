@@ -4,5 +4,15 @@ title: Nicolas Thome
 description: professor
 img: 
 importance: 1
-catergory: prime-investigators
+category: prime-investigators
 ---
+
+
+    ---
+    layout: page
+    title: Nicolas Thome
+    description: professor
+    img: 
+    importance: 1
+    category: prime-investigators
+    ---

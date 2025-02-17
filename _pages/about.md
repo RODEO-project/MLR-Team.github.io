@@ -21,7 +21,7 @@ ANR and Chaire IA
 
 <!-- pages/members.md -->
 <div class="members">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_member_categories and page.display_categories %}
   <!-- Display categorized members -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">

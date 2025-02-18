@@ -449,16 +449,8 @@ ninja.data = [{
           description: "PUPH",
           section: "Members",handler: () => {
               window.location.href = "/members/vialle/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-project-kick-off",
+          title: 'Project kick-off',
           description: "",
           section: "News",},{
         id: 'social-email',

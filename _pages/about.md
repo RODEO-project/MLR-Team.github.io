@@ -13,8 +13,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 
-
-
 ---
 
 The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI. The project is conducted within the Machine Learning for Robotics (MLR) team at the  robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
@@ -28,7 +26,7 @@ ANR and Chaire IA
 # Prime investigators
 
 <div class="members">
-{% if site.enable_member_categories and page.display_categories %}
+{% if site.enable_member_categories and page.display_category %}
   <!-- Display categorized members -->
   {% assign categorized_members = site.members | where: "category", page.display_category %}
   {% assign sorted_members = categorized_members | sort: "importance" %}

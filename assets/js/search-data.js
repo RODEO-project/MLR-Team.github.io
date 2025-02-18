@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-project",
-          title: "Project",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/project/";
-          },
-        },{id: "nav-deliverables",
-          title: "Deliverables",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/deliverables/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-news",
           title: "News",
@@ -29,20 +22,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
-          },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-members",
-          title: "Members",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/members/";
           },
         },{id: "post-a-post-with-image-galleries",
       

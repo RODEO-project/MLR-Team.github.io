@@ -22,6 +22,8 @@ profile:
 The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI. The project is conducted within the Machine Learning for Robotics (MLR) team at the  robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
 The practical testbed is robotics-guided spine surgery, based on a surgical platform available at ISIR.
 
+<br>
+
 # Partners 
 
 
@@ -36,8 +38,10 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
   </tr>
 </table>
 
+<br>
 
 # Prime investigators
+
 <div class="members">
 {% if site.enable_member_categories and page.display_category %}
   <!-- Display categorized members -->
@@ -86,3 +90,6 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
   {% endif %}
 {% endif %}
 </div>
+
+
+<br>

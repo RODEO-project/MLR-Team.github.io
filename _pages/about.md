@@ -14,7 +14,7 @@ announcements:
 
 profile:
   align: right
-  image: assets/img/LOGO_SU_HORIZ_SEUL_CMJN.jpg
+  image: LOGO_SU_HORIZ_SEUL_CMJN.jpg
   image_circular: false # crops the image to make it circular
 
 ---

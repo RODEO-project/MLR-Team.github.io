@@ -12,6 +12,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+profile:
+  align: right
+  image: assets/img/LOGO_SU_HORIZ_SEUL_CMJN.jpg
+  image_circular: false # crops the image to make it circular
 
 ---
 
@@ -20,7 +24,10 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
 
 # Partners 
 
-ANR and Chaire IA
+<div class="image-container">
+  <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR">
+  <img src="" alt="cluster ia">
+</div>
 
 
 # Prime investigators

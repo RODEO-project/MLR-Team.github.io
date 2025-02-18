@@ -18,7 +18,7 @@ Although fully automatic controllers can be used for some safe sub-tasks, surgeo
 While the current co-manipulation system is useful and meets some of the surgeons' needs, it can be significantly improved to enhance the surgical experience. The ISIR surgical platform lacks perception and registration modules, and the current procedure assumes that the patient does not move once positioned for surgery and that the spine is rigid. This can make the transfer of preoperative information complex, inaccurate, and dangerous for the patient. Additionally, current controllers do not account for certain complex physical phenomena during co-manipulation, such as robot friction, vibrations, or gravitational compensation, all of which are crucial for precise surgical interventions.
 
 
-<img src="assets/img/Apercu-du-projet-RODEO-1.png" alt="RODEO WPs" align="center">
+<img src="../assets/img/Apercu-du-projet-RODEO-1.png" alt="RODEO WPs" align="center" style="max-width: 50%; height: auto;">
 
 # Objectives
 

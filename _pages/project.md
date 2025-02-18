@@ -2,11 +2,10 @@
 layout: page
 title: Project
 permalink: /project/
-subtitle: Project
-nav: true
-nav_order: 1
+subtitle: Overview
 ---
 
+# About RODEO
 
 The RODEO project is set to reshape surgical robotics by adapting cutting-edge AI.  The practical testbed is robotics-guided spine surgery, based on a surgical platform available at ISIR [1]. In this setup, a 7 DoFs (degrees of freedom) robotic arm (Fig. 1) is equipped with various sensors (i.e. position, speed, force, electrical conductivity, vibrations) and is used during surgical intervention, e.g., pedicle screw insertion into the spine. This current robotic platform uses a set of already implemented control laws (e.g., position, speed, force control) to execute surgical tasks or subtasks, e.g., drilling a pretrajectory for pedicle screw placement. Before the operation, i.e., “pre-operative”, the patient undergoes a pre-operative 3D CT scan, such that the surgeon defines the medical procedure to follow during the surgery, i.e., “per-operative”. Currently, full autonomous robotic systems remain out-of-reach during the intervention in the operating room [1,2]. Although fully automatic controllers can be deployed in safe sub-tasks, surgeons rather rely on the co-manipulation paradigm for sensitive operations, where surgical robots assist medical procedures. In this case, the robotic assistant is expected to faithfully react to the surgeon's instructions while guaranteeing the safety of both patient and medical staff, and to adapt to the environment. 
 

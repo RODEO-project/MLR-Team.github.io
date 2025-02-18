@@ -4,7 +4,6 @@ title: Members
 permalink: /members/
 display_categories: [prime-investigators, coordinators, members]
 horizontal: false
-nav: true
 ---
 
 

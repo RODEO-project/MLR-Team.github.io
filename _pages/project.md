@@ -3,7 +3,6 @@ layout: page
 title: Project
 permalink: /project/
 subtitle: Overview
-nav: true
 ---
 
 # About RODEO

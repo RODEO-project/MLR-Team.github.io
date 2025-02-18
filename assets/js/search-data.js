@@ -30,7 +30,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/project/";
           },
-        },{id: "nav-publications",
+        },{id: "dropdown-overview",
+              title: "Overview",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-members",
+              title: "Members",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-deliverables",
+              title: "Deliverables",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",

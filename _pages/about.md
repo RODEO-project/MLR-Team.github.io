@@ -48,7 +48,6 @@ ANR and Chaire IA
     {% endfor %}
   </div>
   {% endif %}
-  {% endfor %}
 
 {% else %}
 

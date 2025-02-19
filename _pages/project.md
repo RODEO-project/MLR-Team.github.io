@@ -5,6 +5,9 @@ permalink: /project/
 subtitle: Overview
 ---
 
+
+<img align="center" style="text-align: center; max-width: 75%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img">
+
 # About RODEO
 
 The ANR RODEO project aims to transform surgical robotics by integrating the latest advancements in artificial intelligence (AI). The application framework is robot-guided surgery for the spine, based on a surgical platform available at ISIR.

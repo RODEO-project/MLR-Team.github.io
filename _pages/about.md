@@ -24,6 +24,10 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
 
 <br>
 
+<img align="center" style="text-align: center; max-width: 75%; height: auto;" src="assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img">
+
+<br>
+
 # Partners 
 
 We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster-IA.

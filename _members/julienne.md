@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maxellende Julienne
-description: research engineer
+description: Research engineer
 img:
 importance: 14
 category: Members

@@ -26,6 +26,7 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
 
 # Partners 
 
+We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster-IA.
 
 <table align="center" style="width: 50%;">
   <tr>

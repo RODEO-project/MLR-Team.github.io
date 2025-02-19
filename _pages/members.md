@@ -2,7 +2,7 @@
 layout: about
 title: Members
 permalink: /members/
-display_categories: [prime-investigators, coordinators, members]
+display_categories: [Prime-investigators, Coordinators, Members]
 horizontal: false
 ---
 

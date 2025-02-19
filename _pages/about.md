@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-display_category: prime-investigators
+display_category: Prime-investigators
 horizontal: false
 subtitle:
 

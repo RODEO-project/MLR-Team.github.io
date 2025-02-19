@@ -441,12 +441,12 @@ ninja.data = [{
               window.location.href = "/members/tamadazte/";
             },},{id: "members-nicolas-thome",
           title: 'Nicolas Thome',
-          description: "professor",
+          description: "professor at Sorbonne Université",
           section: "Members",handler: () => {
               window.location.href = "/members/thome/";
             },},{id: "members-raphaël-vialle",
           title: 'Raphaël Vialle',
-          description: "PUPH",
+          description: "PUPH at Armand Trousseau Hospital",
           section: "Members",handler: () => {
               window.location.href = "/members/vialle/";
             },},{id: "news-project-kick-off",

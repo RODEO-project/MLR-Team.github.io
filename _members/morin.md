@@ -2,7 +2,7 @@
 layout: page
 title: Pascal Morin
 description: professor
-img: 
+img:
 importance: 5
 category: coordinators
 ---

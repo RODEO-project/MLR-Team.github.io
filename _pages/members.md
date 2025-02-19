@@ -6,7 +6,6 @@ display_categories: [prime-investigators, coordinators, members]
 horizontal: false
 ---
 
-
 <!-- pages/members.md -->
 <div class="members">
 {% if site.enable_member_categories and page.display_categories %}
@@ -61,6 +60,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-
-

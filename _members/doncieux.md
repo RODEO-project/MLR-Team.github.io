@@ -2,9 +2,9 @@
 layout: page
 title: Stéphane Doncieux
 description: professor
-img: 
+img:
 importance: 7
 category: coordinators
 ---
 
-Co-coordinator of WP3,  member of WP2.
+Co-coordinator of WP3, member of WP2.

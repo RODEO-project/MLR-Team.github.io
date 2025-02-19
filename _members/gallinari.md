@@ -2,7 +2,7 @@
 layout: page
 title: Patrick Gallinari
 description: professor
-img: 
+img:
 importance: 10
 category: members
 ---

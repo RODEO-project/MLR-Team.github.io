@@ -2,7 +2,7 @@
 layout: page
 title: Nicolas Perrin-Gilbert
 description: CNRS researcher
-img: 
+img:
 importance: 11
 category: members
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Matthieu Cord
 description: professor
-img: 
+img:
 importance: 9
 category: members
 ---

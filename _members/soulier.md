@@ -2,7 +2,7 @@
 layout: page
 title: Laure Soulier
 description: associate professor
-img: 
+img:
 importance: 13
 category: members
 ---

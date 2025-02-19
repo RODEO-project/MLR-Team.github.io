@@ -2,7 +2,7 @@
 layout: page
 title: Clément Rambour
 description: associate professor
-img: 
+img:
 importance: 15
 category: members
 ---

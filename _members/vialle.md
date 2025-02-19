@@ -2,7 +2,7 @@
 layout: page
 title: Raphaël Vialle
 description: PUPH at Armand Trousseau Hospital
-img: 
+img:
 importance: 2
 category: prime-investigators
 ---

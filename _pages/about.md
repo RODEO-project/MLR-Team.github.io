@@ -4,8 +4,7 @@ title: Home
 permalink: /
 display_category: prime-investigators
 horizontal: false
-subtitle: 
-
+subtitle:
 
 announcements:
   enabled: true # includes a list of news items
@@ -16,10 +15,9 @@ profile:
   align: right
   image: LOGO_SU_HORIZ_SEUL_CMJN.jpg
   image_circular: false # crops the image to make it circular
-
 ---
 
-The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI. The project is conducted within the Machine Learning for Robotics (MLR) team at the  robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
+The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI. The project is conducted within the Machine Learning for Robotics (MLR) team at the robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
 The practical testbed is robotics-guided spine surgery, based on a surgical platform available at ISIR.
 
 <br>
@@ -30,7 +28,7 @@ The practical testbed is robotics-guided spine surgery, based on a surgical plat
 
 <br>
 
-# Partners 
+# Partners
 
 We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster-IA.
 
@@ -97,6 +95,5 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
   {% endif %}
 {% endif %}
 </div>
-
 
 <br>

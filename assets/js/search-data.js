@@ -386,27 +386,27 @@ ninja.data = [{
               window.location.href = "/members/chetouani/";
             },},{id: "members-matthieu-cord",
           title: 'Matthieu Cord',
-          description: "professor",
+          description: "Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/cord/";
             },},{id: "members-stéphane-doncieux",
           title: 'Stéphane Doncieux',
-          description: "professor",
+          description: "Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/doncieux/";
             },},{id: "members-patrick-gallinari",
           title: 'Patrick Gallinari',
-          description: "professor",
+          description: "Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/gallinari/";
             },},{id: "members-maxellende-julienne",
           title: 'Maxellende Julienne',
-          description: "research engineer",
+          description: "Research engineer",
           section: "Members",handler: () => {
               window.location.href = "/members/julienne/";
             },},{id: "members-pascal-morin",
           title: 'Pascal Morin',
-          description: "professor",
+          description: "Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/morin/";
             },},{id: "members-nicolas-perrin-gilbert",
@@ -421,17 +421,17 @@ ninja.data = [{
               window.location.href = "/members/piwowarski/";
             },},{id: "members-clément-rambour",
           title: 'Clément Rambour',
-          description: "associate professor",
+          description: "Associate Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/rambour/";
             },},{id: "members-olivier-sigaud",
           title: 'Olivier Sigaud',
-          description: "professor",
+          description: "Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/sigaud/";
             },},{id: "members-laure-soulier",
           title: 'Laure Soulier',
-          description: "associate professor",
+          description: "Associate Professor",
           section: "Members",handler: () => {
               window.location.href = "/members/soulier/";
             },},{id: "members-brahim-tamadatze",
@@ -441,7 +441,7 @@ ninja.data = [{
               window.location.href = "/members/tamadazte/";
             },},{id: "members-nicolas-thome",
           title: 'Nicolas Thome',
-          description: "professor at Sorbonne Université",
+          description: "Professor at Sorbonne Université",
           section: "Members",handler: () => {
               window.location.href = "/members/thome/";
             },},{id: "members-raphaël-vialle",

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Patrick Gallinari
-description: professor
+description: Professor
 img:
 importance: 10
-category: members
+category: Members
 ---
 
 Member of WP 2, WP3.

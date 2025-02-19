@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Clément Rambour
-description: associate professor
+description: Associate Professor
 img:
 importance: 15
-category: members
+category: Members
 ---
 
 Member of WP1.

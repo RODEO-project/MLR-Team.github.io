@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Nicolas Thome
-description: professor at Sorbonne Université
+description: Professor at Sorbonne Université
 importance: 1
 img:
-category: prime-investigators
+category: Prime-investigators
 ---
 
 Prime investigator of the project and project coordinator. \\

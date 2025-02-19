@@ -4,7 +4,7 @@ title: Raphaël Vialle
 description: PUPH at Armand Trousseau Hospital
 img:
 importance: 2
-category: prime-investigators
+category: Prime-investigators
 ---
 
 Prime investigator of the project.\\

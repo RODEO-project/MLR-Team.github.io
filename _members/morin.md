@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Pascal Morin
-description: professor
+description: Professor
 img:
 importance: 5
-category: coordinators
+category: Coordinators
 ---
 
 Coordinator of WP2.

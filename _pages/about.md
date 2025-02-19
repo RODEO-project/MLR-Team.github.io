@@ -47,6 +47,8 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
 
 # Prime investigators
 
+<p align="center">
+
 <div class="members">
 {% if site.enable_member_categories and page.display_category %}
   <!-- Display categorized members -->
@@ -95,5 +97,6 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
   {% endif %}
 {% endif %}
 </div>
+</p>
 
 <br>

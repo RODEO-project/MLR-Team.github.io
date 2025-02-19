@@ -4,7 +4,7 @@ title: Brahim Tamadatze
 description: CNRS research director
 img:
 importance: 3
-category: coordinators
+category: Coordinators
 ---
 
 Co-coordinator of WP4. \\

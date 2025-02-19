@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Olivier Sigaud
-description: professor
+description: Professor
 img:
 importance: 4
-category: coordinators
+category: Coordinators
 ---
 
 Coordinator of WP1. \\

@@ -4,7 +4,7 @@ title: Catherine Achard
 description: Professor
 img:
 importance: 8
-category: members
+category: Members
 ---
 
 Member of WP4, WP1.

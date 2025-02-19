@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Laure Soulier
-description: associate professor
+description: Associate Professor
 img:
 importance: 13
-category: members
+category: Members
 ---
 
 Member of WP1.

@@ -47,7 +47,7 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
 
 # Prime investigators
 
-<div align="center" class="members">
+<div class="members">
 {% if site.enable_member_categories and page.display_category %}
   <!-- Display categorized members -->
   {% assign categorized_members = site.members | where: "category", page.display_category %}

@@ -6,3 +6,6 @@ img:
 importance: 3
 category: coordinators
 ---
+
+Co-coordinator of WP4. \\
+Member of WP1, WP2

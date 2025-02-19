@@ -6,3 +6,5 @@ img:
 importance: 5
 category: coordinators
 ---
+
+Coordinator of WP2.

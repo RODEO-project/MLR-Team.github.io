@@ -6,3 +6,5 @@ img:
 importance: 13
 category: members
 ---
+
+Member of WP1.

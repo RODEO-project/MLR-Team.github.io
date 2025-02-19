@@ -5,8 +5,9 @@ permalink: /project/
 subtitle: Overview
 ---
 
-
-<img align="center" style="text-align: center; max-width: 75%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img">
+<p align="center">
+  <img style="text-align: center; max-width: 100%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
+</p>
 
 # About RODEO
 
@@ -21,7 +22,10 @@ Although fully automatic controllers can be used for some safe sub-tasks, surgeo
 While the current co-manipulation system is useful and meets some of the surgeons' needs, it can be significantly improved to enhance the surgical experience. The ISIR surgical platform lacks perception and registration modules, and the current procedure assumes that the patient does not move once positioned for surgery and that the spine is rigid. This can make the transfer of preoperative information complex, inaccurate, and dangerous for the patient. Additionally, current controllers do not account for certain complex physical phenomena during co-manipulation, such as robot friction, vibrations, or gravitational compensation, all of which are crucial for precise surgical interventions.
 
 
-<img align="center" style="text-align: center; max-width: 75%; height: auto;" src="../assets/img/Apercu-du-projet-RODEO-1.png" alt="RODEO WPs">
+
+<p align="center">
+  <img style="text-align: center; max-width: 100%; height: auto;" src="../assets/img/Apercu-du-projet-RODEO-1.png" alt="RODEO WPs"/>
+</p>
 
 # Objectives
 

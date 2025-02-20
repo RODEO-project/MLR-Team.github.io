@@ -20,7 +20,7 @@ horizontal: false
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for memebr in sorted_members %}
+    {% for member in sorted_members %}
       {% include members_horizontal.liquid %}
     {% endfor %}
     </div>
@@ -31,6 +31,7 @@ horizontal: false
       {% include members.liquid %}
     {% endfor %}
   </div>
+  <br>
   {% endif %}
   {% endfor %}
 

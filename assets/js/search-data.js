@@ -441,7 +441,7 @@ ninja.data = [{
               window.location.href = "/members/tamadazte/";
             },},{id: "members-nicolas-thome",
           title: 'Nicolas Thome',
-          description: "Professor at Sorbonne Université",
+          description: "Professor at Sorbonne Université and IUF member.",
           section: "Members",handler: () => {
               window.location.href = "/members/thome/";
             },},{id: "members-raphaël-vialle",

@@ -456,8 +456,11 @@ ninja.data = [{
           description: "PUPH at Armand Trousseau Hospital",
           section: "Members",handler: () => {
               window.location.href = "/members/vialle/";
-            },},{id: "news-project-kick-off",
-          title: 'Project kick-off',
+            },},{id: "news-rodeo-project-kick-off",
+          title: 'RODEO Project kick-off',
+          description: "",
+          section: "News",},{id: "news-ryder-project-inauguration",
+          title: 'RYDER Project inauguration',
           description: "",
           section: "News",},{id: "research_axes-foundation-models-for-sequential-decision-making",
           title: 'Foundation models for sequential decision making',

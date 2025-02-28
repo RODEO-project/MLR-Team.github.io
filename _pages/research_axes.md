@@ -3,7 +3,6 @@ layout: page
 title: Research axes
 permalink: /research_axes/
 horizontal: true
-nav: true
 ---
 
 <!-- pages/research_axes.md -->

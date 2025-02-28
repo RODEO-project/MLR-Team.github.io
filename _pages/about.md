@@ -13,6 +13,36 @@ announcements:
 
 The Machine Learning for Roborics Team is structured around 4 axes accross two projects.
 
+<div class="axes">
+{% if site.enable_axe_categories and page.display_categories %}
+  <!-- Display categorized axes -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_axes = site.research_axes | where: "category", category %}
+  {% assign sorted_axes = categorized_axes | sort: "importance" %}
+  <!-- Generate cards for each axe -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for axe in sorted_axes %}
+      {% include axes_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for axe in sorted_axes %}
+      {% include axes.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
+
+{% else %}
+
+<!-- Display axes without categories -->
 
 {% assign sorted_axes = site.research_axes | sort: "importance" %}
 
@@ -34,6 +64,7 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
     {% endfor %}
   </div>
   {% endif %}
+{% endif %}
 </div>
 
 <br>
@@ -47,6 +78,34 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
 # Machine Learning for Robotics (MLR) team
 
 <div class="members">
+{% if site.enable_member_categories and page.display_categories %}
+  <!-- Display categorized members -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_members = site.members | where: "category", category %}
+  {% assign sorted_members = categorized_members | sort: "importance" %}
+  <!-- Generate cards for each member -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for member in sorted_members %}
+      {% include members_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for member in sorted_members %}
+      {% include members.liquid %}
+    {% endfor %}
+  </div>
+  <br>
+  {% endif %}
+  {% endfor %}
+
+{% else %}
 
 <!-- Display members without categories -->
 
@@ -70,6 +129,7 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
     {% endfor %}
   </div>
   {% endif %}
+{% endif %}
 </div>
 
 <br>

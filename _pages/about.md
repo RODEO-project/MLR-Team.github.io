@@ -70,7 +70,7 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
 <br>
 
 <p align="center">
-  <img style="text-align: center; max-width: 100%; height: auto;" src="assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
+  <img style="text-align: center; max-width: 100%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
 </p>
 
 <br>
@@ -141,7 +141,7 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
 <table align="center" style="width: 50%;">
   <tr>
     <td style="text-align: center;">
-      <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
+      <img src="../assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
     </td>
     <td style="text-align: center;">
       <img src="" alt="cluster ia" style="max-width: 100%; height: auto;">

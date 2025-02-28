@@ -1,13 +1,13 @@
 ---
 layout: page
-title: axes
-permalink: /axes/
+title: Research axes
+permalink: /research_axes/
 description: Research axes
 horizontal: false
 nav: True
 ---
 
-<!-- pages/axes.md -->
+<!-- pages/research_axes.md -->
 <div class="axes">
 {% if site.enable_axe_categories and page.display_categories %}
   <!-- Display categorized axes -->
@@ -15,7 +15,7 @@ nav: True
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_axes = site.axes | where: "category", category %}
+  {% assign categorized_axes = site.research_axes | where: "category", category %}
   {% assign sorted_axes = categorized_axes | sort: "importance" %}
   <!-- Generate cards for each axe -->
   {% if page.horizontal %}
@@ -39,7 +39,7 @@ nav: True
 
 <!-- Display axes without categories -->
 
-{% assign sorted_axes = site.axes | sort: "importance" %}
+{% assign sorted_axes = site.research_axes | sort: "importance" %}
 
   <!-- Generate cards for each axe -->
 

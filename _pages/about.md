@@ -9,14 +9,9 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-# profile:
-#   align: right
-#   image: LOGO_SU_HORIZ_SEUL_CMJN.jpg
-#   image_circular: false # crops the image to make it circular
 ---
 
-The Machine Learning for Roborics Team is structured around 4 axes :
+The Machine Learning for Roborics Team is structured around 4 axes accross two projects.
 
 {% assign sorted_axes = site.research_axes | sort: "importance" %}
 

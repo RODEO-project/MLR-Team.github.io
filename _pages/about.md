@@ -13,6 +13,29 @@ announcements:
 
 The Machine Learning for Roborics Team is structured around 4 axes accross two projects.
 
+
+{% assign sorted_axes = site.research_axes | sort: "importance" %}
+
+  <!-- Generate cards for each axe -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for axe in sorted_axes %}
+      {% include axes_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for axe in sorted_axes %}
+      {% include axes.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
 <br>
 
 <p align="center">

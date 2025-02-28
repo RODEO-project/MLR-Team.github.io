@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-guided surgical robotics and spine surgery
+title: AI-guided surgical robotics for spine surgery
 description: Coordinated by Raphaël Vialle and Brahim Tamadatze
 img:
 importance: 4

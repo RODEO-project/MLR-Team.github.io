@@ -38,10 +38,7 @@ The Machine Learning for Roborics Team is structured around 4 axes :
     {% endfor %}
   </div>
   {% endif %}
-{% endif %}
 </div>
-
-<br>
 
 <br>
 

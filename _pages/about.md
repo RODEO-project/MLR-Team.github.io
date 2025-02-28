@@ -82,7 +82,7 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_members = site.members | where: "category", category %}
-  {% assign sorted_members = categorized_members | sort: "importance" %}
+  {% assign sorted_members = categorized_members %}
   <!-- Generate cards for each member -->
   {% if page.horizontal %}
   <div class="container">
@@ -106,7 +106,7 @@ The Machine Learning for Roborics Team is structured around 4 axes accross two p
 
 <!-- Display members without categories -->
 
-{% assign sorted_members = site.members | sort: "importance" %}
+{% assign sorted_members = site.members%}
 
   <!-- Generate cards for each member -->
 

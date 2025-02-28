@@ -155,7 +155,7 @@ collections:
   members:
     output: true
     permalink: /:collection/:title/
-  axes:
+  research_axes:
     output: true
     permalink: /:collection/:title/
 

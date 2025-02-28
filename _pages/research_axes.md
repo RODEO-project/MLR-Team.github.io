@@ -13,7 +13,7 @@ horizontal: true
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_focus = site.research_focus | where: "category", category %}
+  {% assign categorized_focus = site.research_axes | where: "category", category %}
   {% assign sorted_focus = categorized_focus | sort: "importance" %}
   <!-- Generate cards for each focus -->
   {% if page.horizontal %}
@@ -37,7 +37,7 @@ horizontal: true
 
 <!-- Display focus without categories -->
 
-{% assign sorted_focus = site.research_focus | sort: "importance" %}
+{% assign sorted_focus = site.research_axes | sort: "importance" %}
 
   <!-- Generate cards for each focus -->
 

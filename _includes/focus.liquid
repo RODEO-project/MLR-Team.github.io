@@ -1,29 +1,29 @@
 <div class="col">
-  <a href="{% if axe.redirect %}{{ axe.redirect }}{% else %}{{ axe.url | relative_url }}{% endif %}">
+  <a href="{% if focus.redirect %}{{ focus.redirect }}{% else %}{{ focus.url | relative_url }}{% endif %}">
     <div class="card h-100 hoverable">
-      {% if axe.img %}
+      {% if focus.img %}
         {%
           include figure.liquid
           loading="eager"
-          path=axe.img
+          path=focus.img
           sizes = "250px"
-          alt="axe thumbnail"
+          alt="focus thumbnail"
           class="card-img-top"
         %}
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title">{{ axe.title }}</h2>
-        <p class="card-text">{{ axe.description }}</p>
+        <h2 class="card-title">{{ focus.title }}</h2>
+        <p class="card-text">{{ focus.description }}</p>
         <div class="row ml-1 mr-1 p-0">
-          {% if axe.github %}
+          {% if focus.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ axe.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                <a href="{{ focus.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
               </div>
-              {% if axe.github_stars %}
+              {% if focus.github_stars %}
                 <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                   <i class="fa-solid fa-star"></i>
-                  <span id="{{ axe.github_stars }}-stars"></span>
+                  <span id="{{ focus.github_stars }}-stars"></span>
                 </span>
               {% endif %}
             </div>

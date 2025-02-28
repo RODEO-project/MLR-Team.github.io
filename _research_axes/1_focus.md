@@ -8,7 +8,7 @@ importance: 1
 
 ## Main objective
 
-WP1 designs machine learning (ML) methods for instruction-based planning leveraging foundational models (FMs) and adapted to the context of multi-modal data in robotics.
+This research focus designs machine learning (ML) methods for instruction-based planning leveraging foundational models (FMs) and adapted to the context of multi-modal data in robotics.
 
 - Developing frugal ML solutions
 - Extending FMs to surgical robotics

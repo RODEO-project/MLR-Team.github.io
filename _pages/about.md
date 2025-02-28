@@ -74,7 +74,7 @@ The Machine Learning for Robotics (MLR) Team is structured around four research 
 
 # Machine Learning for Robotics team
 
-The MLR team is coordinated by [Nicolas Thome](_members/thome.md Towards Nicolas Thome's page).
+The MLR team is coordinated by [Nicolas Thome](\_members/thome.md Towards Nicolas Thome's page).
 
 <div class="members">
 {% if site.enable_member_categories and page.display_categories %}

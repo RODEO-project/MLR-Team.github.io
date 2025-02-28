@@ -464,22 +464,22 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "research_axes-foundation-models-for-sequential-decision-making",
           title: 'Foundation models for sequential decision making',
-          description: "Coordinated by [Olivier Sigaud](_members/sigaud.md &quot;Olivier Sigaud&quot;)",
+          description: "Coordinated by Olivier Sigaud",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/1_axe/";
             },},{id: "research_axes-physics-informed-robot-controllers",
           title: 'Physics-informed robot controllers',
-          description: "Coordinated by [Pascal Morrin](_members/morin.md Pascal Morrin) and [Nicolas Perrin](_members/perrin-gilbert.md Nicolas Perrin)",
+          description: "Coordinated by Pascal Morrin and Nicolas Perrin",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/2_axe/";
             },},{id: "research_axes-uncertainty-quantification-and-explainability",
           title: 'Uncertainty quantification and explainability',
-          description: "Coordinated by [Mohammed Chetanoui](_members/chetouani.md Mohammed Chetanoui) and [Stéphane Doncieux](_members/doncieux.md Stéphane Doncieux)",
+          description: "Coordinated by Mohammed Chetanoui and Stéphane Doncieux",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/3_axe/";
             },},{id: "research_axes-ai-guided-surgical-robotics-and-spine-surgery",
           title: 'AI-guided surgical robotics and spine surgery',
-          description: "Coordinated by [Raphaël Vialle](_members/vialle.md Raphaël Vialle) and [Brahim Tamadatze](_members/tamadazte.md Brahim Tamadatze)",
+          description: "Coordinated by Raphaël Vialle and Brahim Tamadatze",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/4_axe/";
             },},{

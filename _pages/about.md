@@ -11,7 +11,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-The Machine Learning for Roborics (MLR) Team is structured around 4 axes accross two projects :
+The Machine Learning for Robotics (MLR) Team is structured around 4 axes accross two projects :
 
 - [The ANR PRME RODEO project](_pages/project-RODEO.md "Learn more about the RODEO project")
 - [The CAP RYDER project](_pages/project-RYDER.md "Learn more about the RYDER project")

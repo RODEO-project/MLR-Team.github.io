@@ -9,7 +9,7 @@ subtitle: Overview of the RODEO project
   <img style="text-align: center; max-width: 100%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
 </p>
 
-The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI, targetting the challenging spine surgery. The project is conducted within the Machine Learning for Robotics (MLR) team at the robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
+The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI, targetting the challenging spine surgery. The project is conducted within the Machine Learning for Robotics (MLR) team at the robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). 
 
 # About RODEO
 

@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Project
+title: Projects
 nav: true
 nav_order: 1
 dropdown: true
 children:
-  - title: Overview
-    permalink: /project/
+  - title: RODEO
+    permalink: /RODEO/
+  - title: RYDER
+    permalink: /RYDER/
   - title: divider
-  - title: Members
+  - title: MLR Team
     permalink: /members/
   - title: divider
   - title: Deliverables

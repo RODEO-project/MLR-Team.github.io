@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Overview of the project
-permalink: /project/
-subtitle: Overview
+title: RODEO
+permalink: /RODEO/
+subtitle: Overview of the RODEO project
 ---
 
 <p align="center">
   <img style="text-align: center; max-width: 100%; height: auto;" src="../assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
 </p>
 
+The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI, targetting the challenging spine surgery. The project is conducted within the Machine Learning for Robotics (MLR) team at the robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
+
 # About RODEO
 
-The ANR RODEO project aims to transform surgical robotics by integrating the latest advancements in artificial intelligence (AI). The application framework is robot-guided surgery for the spine, based on a surgical platform available at ISIR.
+The RODEO ANR project aims to transform surgical robotics by integrating the latest advancements in artificial intelligence (AI). The application framework is robot-guided surgery for the spine, based on a surgical platform available at ISIR.
 
 In this context, a 7-degree-of-freedom (DoF) robotic arm is equipped with various sensors (position, speed, force, electrical conductivity, vibrations) and used during surgical interventions, such as the insertion of pedicle screws into the spine. This current robotic platform uses a set of already implemented control laws (e.g., position, speed, force control) to execute surgical tasks or sub-tasks, such as drilling a preliminary trajectory for pedicle screw placement. Before the operation, a 3D scan of the patient is performed, allowing the surgeon to define the medical procedure to be followed during surgery.
 

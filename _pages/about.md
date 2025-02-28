@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-horizontal: false
+horizontal: true
 subtitle:
 
 announcements:

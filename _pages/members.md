@@ -3,7 +3,7 @@ layout: about
 title: Members
 permalink: /members/
 display_categories: [Prime-investigators, Coordinators, Members]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/members.md -->

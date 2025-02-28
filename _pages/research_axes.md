@@ -4,7 +4,6 @@ title: Research axes
 permalink: /research_axes/
 description: Research axes
 horizontal: false
-nav: True
 ---
 
 <!-- pages/research_axes.md -->

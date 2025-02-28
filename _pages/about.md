@@ -141,7 +141,7 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
       <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
     </td>
     <td style="text-align: center;">
-      <img src="" alt="cluster ia" style="max-width: 100%; height: auto;">
+      <img src="assets/img/LOGO_SU_HORIZ_SEUL_CMJN.jpg" alt="cluster ia" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>

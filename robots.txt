@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://RODEO-project.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://MLR-Team.github.io/sitemap.xml

@@ -16,31 +16,38 @@ announcements:
 #   image_circular: false # crops the image to make it circular
 ---
 
-The RODEO ANR project is set to reshape surgical robotics by adapting cutting-edge AI. The project is conducted within the Machine Learning for Robotics (MLR) team at the robotics lab (Institut des Systèmes Intelligents et de Robotique, ISIR), Sorbonne University (SU). \\
-The practical testbed is robotics-guided spine surgery, based on a surgical platform available at ISIR.
+The Machine Learning for Roborics Team is structured around 4 axes :
+
+{% assign sorted_axes = site.research_axes | sort: "importance" %}
+
+  <!-- Generate cards for each axe -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for axe in sorted_axes %}
+      {% include axes_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for axe in sorted_axes %}
+      {% include axes.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>
+
+<br>
 
 <br>
 
 <p align="center">
   <img style="text-align: center; max-width: 100%; height: auto;" src="assets/img/CNRS_20200021_0014.jpg" alt="RODEO intro img"/>
 </p>
-
-<br>
-
-# Partners
-
-We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster-IA.
-
-<table align="center" style="width: 50%;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="text-align: center;">
-      <img src="" alt="cluster ia" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -72,5 +79,22 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
   {% endif %}
 {% endif %}
 </div>
+
+<br>
+
+# Partners
+
+We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster IA-SU.
+
+<table align="center" style="width: 50%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="text-align: center;">
+      <img src="" alt="cluster ia" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
 
 <br>

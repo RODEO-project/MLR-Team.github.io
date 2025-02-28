@@ -13,8 +13,8 @@ announcements:
 
 The Machine Learning for Roborics Team is structured around 4 axes accross two projects :
 
-- ANR PRME RODEO
-- CAP RYDER
+- [_pages/project-RODEO.md](The ANR PRME RODEO project "Learn more about the RODEO project")
+- [_pages/project-RYDER.md](The CAP RYDER project "Learn more about the RYDER project")
 
 <div class="axes">
 {% if site.enable_axe_categories and page.display_categories %}

@@ -14,4 +14,4 @@ This research focus designs reliable Uncertainty quantification (UQ) methods.
 - Leveraging UQ for language explainability and disambiguation in robothuman interactions
 - Exploration in reinforcement learning (RL).
 
-This research focus is coordinated by [Mohammed Chetanoui](\_members/chetouani.md Mohammed Chetanoui) and [Stéphane Doncieux](\_members/doncieux.md Stéphane Doncieux)
+This research focus is coordinated by [Mohammed Chetanoui](/members/chetouani/ "Mohammed Chetanoui") and [Stéphane Doncieux](/members/doncieux/ "Stéphane Doncieux")

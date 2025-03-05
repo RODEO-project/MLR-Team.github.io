@@ -10,4 +10,4 @@ importance: 4
 
 This research focus evaluates the methods in the previous research axes in the ISIR robotics-guided spine surgery platform and provides a demonstrator assessed by the surgeon of the MLR team (R. Vialle).
 
-This research focus is coordinated by [Raphaël Vialle](\_members/vialle.md Raphaël Vialle) and [Brahim Tamadatze](\_members/tamadazte.md Brahim Tamadatze)
+This research focus is coordinated by [Raphaël Vialle](/members/vialle/ "Raphaël Vialle") and [Brahim Tamadatze](/members/tamadazte/ "Brahim Tamadatze")

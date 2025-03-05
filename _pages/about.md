@@ -16,7 +16,7 @@ The Machine Learning for Robotics (MLR) Team is structured around four research 
 - [The ANR PRME RODEO project](_pages/project-RODEO.md "Learn more about the RODEO project")
 - [The CAP RYDER project](_pages/project-RYDER.md "Learn more about the RYDER project")
 
-The four research axes consist of three fondamental AI axes and an applied AI axis focused on surgical robotics.  
+The four research axes consist of three fondamental AI axes and an applied AI axis focused on surgical robotics.
 
 <div class="focus">
 {% if site.enable_axe_categories and page.display_categories %}
@@ -73,7 +73,6 @@ The four research axes consist of three fondamental AI axes and an applied AI ax
 </div>
 
 <br>
-
 
 # Partners
 

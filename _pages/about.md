@@ -78,7 +78,7 @@ The four research axes consist of three fondamental AI axes and an applied AI ax
 
 We are thanking the Agence nationale de la recherche (ANR) and the Cluster PostGenAI@Paris.
 
-<table align="center" style="width: 50%;">
+<table align="center" style="width: 75%;">
   <tr>
     <td style="text-align: center;">
       <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">

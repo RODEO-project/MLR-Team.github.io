@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-RYDER Project inauguration
+PostGenAI@Paris inauguration

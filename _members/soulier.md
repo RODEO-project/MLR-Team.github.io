@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laure Soulier
-description: Associate Professor
+description: Associate Professor. Member of WP1.
 img:
 importance: 13
 category: Members

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matthieu Cord
-description: Professor
+description: Professor. Member of WP1.
 img:
 importance: 9
 category: Members

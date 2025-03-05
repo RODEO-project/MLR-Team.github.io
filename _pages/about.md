@@ -16,6 +16,8 @@ The Machine Learning for Robotics (MLR) Team is structured around four research 
 - [The ANR PRME RODEO project](_pages/project-RODEO.md "Learn more about the RODEO project")
 - [The CAP RYDER project](_pages/project-RYDER.md "Learn more about the RYDER project")
 
+The four research axes consist of three fondamental AI axes and an applied AI axis focused on surgical robotics.  
+
 <div class="focus">
 {% if site.enable_axe_categories and page.display_categories %}
   <!-- Display categorized focus -->
@@ -72,70 +74,10 @@ The Machine Learning for Robotics (MLR) Team is structured around four research 
 
 <br>
 
-# Machine Learning for Robotics team
-
-The MLR team is coordinated by [Nicolas Thome](\_members/thome.md Towards Nicolas Thome's page).
-
-<div class="members">
-{% if site.enable_member_categories and page.display_categories %}
-  <!-- Display categorized members -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_members = site.members | where: "category", category %}
-  {% assign sorted_members = categorized_members %}
-  <!-- Generate cards for each member -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for member in sorted_members %}
-      {% include members_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for member in sorted_members %}
-      {% include members.liquid %}
-    {% endfor %}
-  </div>
-  <br>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display members without categories -->
-
-{% assign sorted_members = site.members%}
-
-  <!-- Generate cards for each member -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-3">
-    {% for member in sorted_members %}
-      {% include members_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for member in sorted_members %}
-      {% include members.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
-
-<br>
 
 # Partners
 
-We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluster IA-SU.
+We are thanking the Agence nationale de la recherche (ANR) and the Cluster PostGenAI@Paris.
 
 <table align="center" style="width: 50%;">
   <tr>
@@ -143,7 +85,10 @@ We are thanking the Agence nationale de la recherche (ANR) and the Chaire Cluste
       <img src="assets/img/ANR-logo-2021-sigle.jpg" alt="ANR" style="max-width: 100%; height: auto;">
     </td>
     <td style="text-align: center;">
-      <img src="assets/img/LOGO_SU_HORIZ_SEUL_CMJN.jpg" alt="cluster ia" style="max-width: 100%; height: auto;">
+      <img src="assets/img/LOGO_SU_HORIZ_SEUL_CMJN.jpg" alt="SU" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="text-align: center;">
+      <img src="assets/img/Logo_SCAI_ArtificialIntelligence_CMJN.jpg" alt="SCAI" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>

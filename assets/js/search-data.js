@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Brahim Tamadatze',
           description: "CNRS research director. Co-coordinator of WP4. Member of WP1, WP2",
           section: "Members",handler: () => {
-              window.location.href = "/members/tamadazte/";
+              window.location.href = "/members/tamadatze/";
             },},{id: "members-nicolas-thome",
           title: 'Nicolas Thome',
           description: "Professor at Sorbonne Université and IUF member. Prime investigator and project coordinator. Coordinator of WP0.",

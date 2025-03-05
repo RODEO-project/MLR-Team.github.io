@@ -14,4 +14,4 @@ This research focus designs new physics-informed "residual hybrid models/control
 - Extending them to partial observations
 - Desiging controllers compatible with surgical robotics constraints
 
-This research focus is coordinated by [Pascal Morrin](\_members/morin.md Pascal Morrin) and [Nicolas Perrin](\_members/perrin-gilbert.md Nicolas Perrin)
+This research focus is coordinated by [Pascal Morrin](/members/morin/ Pascal Morrin) and [Nicolas Perrin](/members/perrin-gilbert/ Nicolas Perrin)

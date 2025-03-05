@@ -14,4 +14,4 @@ This research focus designs machine learning (ML) methods for instruction-based 
 - Extending FMs to surgical robotics
 - Exploring end-to-end instruction planning.
 
-This research focus is coordinated by [Olivier Sigaud](_members/sigaud.md "Olivier Sigaud")
+This research focus is coordinated by [Olivier Sigaud](/members/sigaud/ "Olivier Sigaud")

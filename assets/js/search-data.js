@@ -383,102 +383,102 @@ ninja.data = [{
       },
     },{id: "members-catherine-achard",
           title: 'Catherine Achard',
-          description: "Professor",
+          description: "Professor. Member of WP4, WP1.",
           section: "Members",handler: () => {
               window.location.href = "/members/achard/";
             },},{id: "members-mohamed-chetanoui",
           title: 'Mohamed Chetanoui',
-          description: "Professor",
+          description: "Professor. Co-coordinator of WP3.",
           section: "Members",handler: () => {
               window.location.href = "/members/chetouani/";
             },},{id: "members-matthieu-cord",
           title: 'Matthieu Cord',
-          description: "Professor",
+          description: "Professor. Member of WP1.",
           section: "Members",handler: () => {
               window.location.href = "/members/cord/";
             },},{id: "members-stéphane-doncieux",
           title: 'Stéphane Doncieux',
-          description: "Professor",
+          description: "Professor. Co-coordinator of WP3, member of WP2.",
           section: "Members",handler: () => {
               window.location.href = "/members/doncieux/";
             },},{id: "members-patrick-gallinari",
           title: 'Patrick Gallinari',
-          description: "Professor",
+          description: "Professor. Member of WP 2, WP3.",
           section: "Members",handler: () => {
               window.location.href = "/members/gallinari/";
             },},{id: "members-maxellende-julienne",
           title: 'Maxellende Julienne',
-          description: "Research engineer",
+          description: "Research engineer. Member of WP1, WP3 and WP4.",
           section: "Members",handler: () => {
               window.location.href = "/members/julienne/";
             },},{id: "members-pascal-morin",
           title: 'Pascal Morin',
-          description: "Professor",
+          description: "Professor. Coordinator of WP2.",
           section: "Members",handler: () => {
               window.location.href = "/members/morin/";
             },},{id: "members-nicolas-perrin-gilbert",
           title: 'Nicolas Perrin-Gilbert',
-          description: "CNRS researcher",
+          description: "CNRS researcher. Member of WP2, WP3.",
           section: "Members",handler: () => {
               window.location.href = "/members/perrin-gilbert/";
             },},{id: "members-benjamin-piwowarski",
           title: 'Benjamin Piwowarski',
-          description: "CNRS research director",
+          description: "CNRS research director. Member of WP1.",
           section: "Members",handler: () => {
               window.location.href = "/members/piwowarski/";
             },},{id: "members-clément-rambour",
           title: 'Clément Rambour',
-          description: "Associate Professor",
+          description: "Associate Professor. Member of WP1.",
           section: "Members",handler: () => {
               window.location.href = "/members/rambour/";
             },},{id: "members-olivier-sigaud",
           title: 'Olivier Sigaud',
-          description: "Professor",
+          description: "Professor. Coordinator of WP1. Member of WP2, WP3.",
           section: "Members",handler: () => {
               window.location.href = "/members/sigaud/";
             },},{id: "members-laure-soulier",
           title: 'Laure Soulier',
-          description: "Associate Professor",
+          description: "Associate Professor. Member of WP1.",
           section: "Members",handler: () => {
               window.location.href = "/members/soulier/";
             },},{id: "members-brahim-tamadatze",
           title: 'Brahim Tamadatze',
-          description: "CNRS research director",
+          description: "CNRS research director. Co-coordinator of WP4. Member of WP1, WP2",
           section: "Members",handler: () => {
               window.location.href = "/members/tamadazte/";
             },},{id: "members-nicolas-thome",
           title: 'Nicolas Thome',
-          description: "Professor at Sorbonne Université and IUF member.",
+          description: "Professor at Sorbonne Université and IUF member. Prime investigator and project coordinator. Coordinator of WP0.",
           section: "Members",handler: () => {
               window.location.href = "/members/thome/";
             },},{id: "members-raphaël-vialle",
           title: 'Raphaël Vialle',
-          description: "PUPH at Armand Trousseau Hospital",
+          description: "PUPH at Armand Trousseau Hospital. Prime investigator. Co-coordinator of WP4.",
           section: "Members",handler: () => {
               window.location.href = "/members/vialle/";
             },},{id: "news-rodeo-project-kick-off",
           title: 'RODEO Project kick-off',
           description: "",
-          section: "News",},{id: "news-ryder-project-inauguration",
-          title: 'RYDER Project inauguration',
+          section: "News",},{id: "news-postgenai-paris-inauguration",
+          title: 'PostGenAI@Paris inauguration',
           description: "",
-          section: "News",},{id: "research_axes-foundation-models-for-sequential-decision-making",
-          title: 'Foundation models for sequential decision making',
+          section: "News",},{id: "research_axes-axis-1-foundation-models-for-sequential-decision-making",
+          title: 'Axis 1 - Foundation models for sequential decision making',
           description: "Coordinated by Olivier Sigaud",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/1_focus/";
-            },},{id: "research_axes-physics-informed-robot-controllers",
-          title: 'Physics-informed robot controllers',
+            },},{id: "research_axes-axis-2-physics-informed-robot-controllers",
+          title: 'Axis 2 - Physics-informed robot controllers',
           description: "Coordinated by Pascal Morrin and Nicolas Perrin",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/2_focus/";
-            },},{id: "research_axes-uncertainty-quantification-and-explainability",
-          title: 'Uncertainty quantification and explainability',
+            },},{id: "research_axes-axis-3-uncertainty-quantification-and-explainability",
+          title: 'Axis 3 - Uncertainty quantification and explainability',
           description: "Coordinated by Mohammed Chetanoui and Stéphane Doncieux",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/3_focus/";
-            },},{id: "research_axes-ai-guided-surgical-robotics-for-spine-surgery",
-          title: 'AI-guided surgical robotics for spine surgery',
+            },},{id: "research_axes-axis-4-ai-guided-surgical-robotics-for-spine-surgery",
+          title: 'Axis 4 - AI-guided surgical robotics for spine surgery',
           description: "Coordinated by Raphaël Vialle and Brahim Tamadatze",
           section: "Research_axes",handler: () => {
               window.location.href = "/research_axes/4_focus/";
